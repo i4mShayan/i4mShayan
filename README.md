@@ -14,9 +14,5 @@
 <h3 align="left">Github Stats:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i4mshayan&label=Profile%20views&color=628FDB&style=flat-square" alt="i4mshayan" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i4mshayan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="i4mshayan" /></p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i4mshayan&show_icons=true&theme=tokyonight&locale=en" alt="i4mshayan" /></p>
