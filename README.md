@@ -28,7 +28,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i4mshayan&show_icons=true&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="i4mshayan" /></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
